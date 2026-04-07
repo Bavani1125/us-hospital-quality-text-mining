@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtual environments
+venv/
+venv311/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files — raw datasets not included in this repository
+*.json
+*.ndjson
+
+# Large Excel files (raw source data)
+Hospital_General_Information.*
+Healthcare_Yelp_Open_Dataset.*
+ASCQR_OAS_CAHPS*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build and distribution
+dist/
+build/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
