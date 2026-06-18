@@ -1,0 +1,22 @@
+For a
+Computer Science (CS) Master’s Thesis, formatting is strict because the document often includes complex elements like mathematical proofs, algorithms, and code snippets. While you must always prioritize your specific university's "Thesis Guide," the following are the industry-standard requirements for CS. 
+1. Font and Typography
+Body Text: 11 or 12-point is standard. Times New Roman is the most common serif choice, while Arial or Helvetica are the standard sans-serif options.
+Monospaced Font: For code blocks or variable names within text (e.g., init()), use a monospaced font like Courier or Consolas to distinguish logic from prose.
+Captions/Footnotes: These can be slightly smaller, typically 8 to 10-point. 
+2. Margins
+Margins are designed to ensure text isn't lost during physical binding.
+Left (Binding) Margin: Usually 1.5 inches.
+Top, Bottom, and Right: Standard 1 inch.
+Chapter Starts: Many CS departments require a "major header" margin, where the first page of a chapter begins 2 inches from the top. 
+3. Spacing and Alignment
+Line Spacing: The main body should be double-spaced or 1.5 spaced.
+Single Spacing: Use this for code listings, long block quotes (4+ lines), table titles, and figure captions.
+Alignment: Use left-alignment with a "ragged" right edge. Avoid "Justified" text unless your LaTeX/Word template handles hyphenation perfectly, as it can create "rivers" of white space that make technical reading difficult. 
+4. Page Numbering (Pagination)
+Front Matter: Use lowercase Roman numerals (i, ii, iii) for the Abstract, TOC, and List of Figures. Note that the Title Page is technically "i" but the number is usually hidden.
+Main Body: Switch to Arabic numerals (1, 2, 3) starting from Chapter 1.
+Position: Numbers should be centered at the bottom or placed in the top-right corner, at least 0.5 inches from the edge. 
+5. Essential Tools for CS
+LaTeX (Highly Recommended): Most CS departments provide a LaTeX template (often via Overleaf). LaTeX is the gold standard for CS because it handles complex bibliography management (BibTeX), mathematical equations, and cross-referencing automatically.
+Word Templates: If using Word, ensure you use Styles for headings to automatically generate your Table of Contents and List of Figures
