@@ -1,0 +1,369 @@
+================================================================
+THESIS CITATION REFERENCE LIST
+Organised by relevance to thesis sections
+================================================================
+
+----------------------------------------------------------------
+1. YELP REVIEWS AND HOSPITAL QUALITY
+   (Most directly relevant — use in 3.1.3, 4.3, and Discussion)
+----------------------------------------------------------------
+
+[1] Bardach NS, Asteria-Penaloza R, Boscardin WJ, Dudley RA.
+    The relationship between commercial website ratings and
+    traditional hospital performance measures in the USA.
+    BMJ Quality & Safety. 2013;22(3):194-202.
+    PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4074426/
+    RELEVANCE: Direct study of Yelp ratings vs HCAHPS —
+    found correlation of 0.49. Yelp reviewers observe aspects
+    related to patient outcomes. One of the most-cited papers
+    on this topic.
+
+[2] Ranard BL, Werner RM, Antanavicius T, et al.
+    What can Yelp teach us about measuring hospital quality?
+    Health Affairs. 2016;35(4):697-705.
+    PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4845957/
+    RELEVANCE: Compares Yelp review content to HCAHPS domains.
+    Finds Yelp covers HCAHPS domains plus 12 additional domains.
+    Argues Yelp complements structured surveys.
+
+[3] Synan LT, Eid MA, Lamb CR, Wong SL.
+    Crowd-sourced hospital ratings are correlated with patient
+    satisfaction but not surgical safety.
+    Surgery. 2021;170(3):764-768.
+    URL: https://www.sciencedirect.com/science/article/abs/pii/S0039606021003366
+    RELEVANCE: Compares Yelp, Google, Facebook vs HCAHPS and
+    surgical safety indicators. Yelp most correlated with HCAHPS
+    but not with surgical outcomes.
+
+[4] Placona AM, Rathert C.
+    Are online patient reviews associated with healthcare outcomes?
+    A systematic review.
+    Medical Care Research and Review. 2022.
+    URL: https://journals.sagepub.com/doi/abs/10.1177/10775587211014534
+    RELEVANCE: Systematic review of 32 studies. Consistent
+    positive correlations between online reviews and patient
+    experience. Mixed results for clinical quality associations.
+
+[5] Ramasubramanian H, Joshi S, Krishnan R.
+    Wisdom of the experts versus opinions of the crowd in hospital
+    quality ratings: Analysis of Hospital Compare Star Ratings
+    and Google Star Ratings.
+    Journal of Medical Internet Research. 2022;24(7):e34030.
+    PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC9364164/
+    RELEVANCE: Google ratings correlated with overall CMS star
+    rating but not safety or readmission — supports your argument
+    that consumer reviews and institutional ratings capture
+    different dimensions.
+
+[6] Chakraborty S, Church EM.
+    Social media hospital ratings and HCAHPS survey scores.
+    Journal of Health Organization and Management. 2020;34(2):162-172.
+    DOI: 10.1108/JHOM-08-2019-0234
+    RELEVANCE: Direct correlation between social media ratings and
+    HCAHPS scores.
+
+[7] Bui H, Bhooshan S, et al.
+    A cross-sectional analysis of Yelp and Google reviews of
+    hospitals in the United States.
+    Academic Emergency Medicine. 2022.
+    PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC9960977/
+    RELEVANCE: Cross-sectional comparison of Yelp and Google
+    ratings with CMS Care Compare ratings for 3000 US hospitals.
+
+----------------------------------------------------------------
+2. SENTIMENT ANALYSIS IN HEALTHCARE — GENERAL
+   (Use in 3.3, background/literature review)
+----------------------------------------------------------------
+
+[8] Zunic A, Corcoran P, Spasic I.
+    Sentiment analysis in health and well-being: systematic review.
+    JMIR Medical Informatics. 2020;8(1):e16023.
+    DOI: 10.2196/16023
+    RELEVANCE: Systematic review of sentiment analysis methods
+    in healthcare. Establishes the field and justifies use of
+    NLP for patient feedback.
+
+[9] Gohil S, Vuik S, Darzi A.
+    Sentiment analysis of health care tweets: review of the
+    methods used.
+    JMIR Public Health and Surveillance. 2018;4(2):e43.
+    DOI: 10.2196/publichealth.5789
+    RELEVANCE: Reviews methods for sentiment analysis on
+    health-related social media content.
+
+[10] Denecke K, Deng Y.
+     Sentiment analysis in medical settings: new opportunities
+     and challenges.
+     Artificial Intelligence in Medicine. 2015;64(1):17-27.
+     RELEVANCE: Early but foundational overview of sentiment
+     analysis applied to health contexts.
+
+[11] Rahim AIA, Ibrahim MI, Chua SL, Musa KI.
+     Hospital Facebook reviews analysis using a machine learning
+     sentiment analyzer and quality classifier.
+     Healthcare (Basel). 2021;9(12):1679.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC8701188/
+     RELEVANCE: Machine learning sentiment analysis on social
+     media hospital reviews — closely related topic and method.
+
+[12] Sentiment analysis in public health: a systematic review
+     of the current state, challenges, and future directions.
+     PMC. 2025.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12226299/
+     RELEVANCE: Most recent systematic review covering VADER,
+     BERT, and other tools for public health sentiment analysis.
+     Documents limitations of general-purpose tools in healthcare.
+
+[13] Panchal P, et al.
+     Prediction of healthcare quality using sentiment analysis.
+     Indian Journal of Science and Technology. 2023.
+     URL: https://indjst.org/articles/prediction-of-healthcare-quality-using-sentiment-analysis
+     RELEVANCE: Directly applies sentiment analysis to predict
+     healthcare quality — very close to your thesis scope.
+
+----------------------------------------------------------------
+3. VADER SPECIFICALLY IN HEALTHCARE
+   (Use when introducing VADER in 3.3.2)
+----------------------------------------------------------------
+
+[14] Aggarwal A, et al.
+     Sentiment analysis in healthcare: a comparison of VADER,
+     BERT, and Flair NLP models on patient reviews of pain
+     management physicians.
+     Cureus. 2025;17(7):e88902.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12382424/
+     RELEVANCE: Directly compares VADER with more advanced models
+     for patient reviews. VADER showed r=0.59 with patient ratings.
+     Cite when justifying your VADER choice.
+
+[15] Coelho JV, Barbosa LC.
+     Enhancing public healthcare through VADER sentiment analysis:
+     a case study on patient complaints.
+     SAGE Journals. 2026.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12852578/
+     RELEVANCE: Applies VADER to hospital patient complaints.
+     Directly supports your use of VADER for hospital reviews.
+
+[16] Denecke K, Sax U.
+     How do general-purpose sentiment analyzers perform when applied
+     to health-related online social media data?
+     Studies in Health Technology and Informatics. 2019.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC8061710/
+     RELEVANCE: Evaluates VADER, TextBlob, Stanford NLP on health
+     data — discusses VADER's limitations in healthcare context.
+     Useful for acknowledging limitations.
+
+[17] Bansal A, Kumar N.
+     Aspect-based sentiment analysis using attribute extraction
+     of hospital reviews.
+     New Generation Computing. 2022;40(4):941-960.
+     DOI: 10.1007/s00354-021-00141-3
+     RELEVANCE: Very close to your attribute net score work —
+     extracts aspect/attribute-level sentiment from hospital reviews.
+
+----------------------------------------------------------------
+4. NRC EMOTION LEXICON / EMOTION ANALYSIS
+   (Use when introducing NRCLex in 3.3.2)
+----------------------------------------------------------------
+
+[18] Mohammad SM, Turney PD.
+     Crowdsourcing a word-emotion association lexicon.
+     Computational Intelligence. 2013;29(3):436-465.
+     URL: https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
+     RELEVANCE: Original paper for the NRC Emotion Lexicon that
+     NRCLex is built on. MUST CITE when using NRCLex.
+
+[19] Mohammad SM.
+     Sentiment analysis: automatically detecting valence, emotions,
+     and other affectual states from text.
+     arXiv:2005.11882. 2021. (To appear in Emotion Measurement,
+     Elsevier, 2nd edition)
+     RELEVANCE: Comprehensive overview of the NRC lexicon and
+     sentiment/emotion analysis methods by the original author.
+
+[20] Czarnek G, Stillwell D.
+     Two is better than one: using a single emotion lexicon can
+     lead to unreliable conclusions.
+     PLOS ONE. 2022;17(10):e0275910.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC9565755/
+     RELEVANCE: Discusses NRC Emotion Lexicon vs LIWC —
+     useful for justifying your choice of NRCLex.
+
+----------------------------------------------------------------
+5. CMS HOSPITAL STAR RATINGS AND QUALITY MEASUREMENT
+   (Use in 3.1.1, 4.1, and when discussing official metrics)
+----------------------------------------------------------------
+
+[21] Campanella P, et al.
+     Predicting hospital overall quality star ratings in the USA.
+     Healthcare (Basel). 2021;9(4).
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC8074583/
+     RELEVANCE: Studies CMS star ratings and the quality measures
+     that drive them — directly relevant to your Hospital General
+     dataset.
+
+[22] Kaur R, et al.
+     Calculation of overall hospital quality star ratings with and
+     without inclusion of the peer grouping step.
+     JAMA Network Open. 2024.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11099678/
+     RELEVANCE: Cross-sectional study of 3,076 hospitals with
+     CMS star ratings — directly uses the same data source you use.
+
+[23] Sankey CB, et al.
+     Simulating the overall hospital quality star ratings with
+     random measure weights.
+     PMC. 2025.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12232183/
+     RELEVANCE: Examines reliability of CMS quality measures
+     used in star ratings — supports using these measures as
+     analytical variables.
+
+[24] Demehin A (American Hospital Association).
+     CMS updates annual overall hospital quality star ratings.
+     AHA News. 2024.
+     URL: https://www.aha.org/news/headline/2024-07-31-cms-updates-annual-overall-hospital-quality-star-ratings
+     RELEVANCE: Background on how CMS star ratings are computed
+     and updated — cite when introducing the dataset.
+
+[25] Hospital Rating Organizations' Quality and Patient Safety
+     Scores: Analysis of Result Discrepancies.
+     PMC. 2024.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC11861451/
+     RELEVANCE: Demonstrates discordance between different
+     hospital rating systems — supports your argument that no
+     single metric tells the full story.
+
+----------------------------------------------------------------
+6. PATIENT SATISFACTION SURVEYS (OAS CAHPS / HCAHPS)
+   (Use in 3.1.2, 4.1)
+----------------------------------------------------------------
+
+[26] CMS HCAHPS Overview.
+     Centers for Medicare and Medicaid Services.
+     URL: https://www.cms.gov/medicare/quality/initiatives/hospital-quality-initiative/hcahps-patients-perspectives-care-survey
+     RELEVANCE: Official CMS description of the HCAHPS survey —
+     cite when introducing the survey methodology.
+
+[27] Nguyen OK, et al.
+     Provider-patient communication and hospital ratings: perceived
+     gaps and forward thinking about the effects of COVID-19.
+     PMC. 2020.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC7717255/
+     RELEVANCE: Pearson correlation analysis on HCAHPS composite
+     measures and overall hospital ratings — same analytical
+     approach as your correlation section.
+
+[28] Pereira A, et al.
+     Unveiling the drivers of patient satisfaction in the United
+     States hospitals: assessing quality indicators across regions.
+     PMC. 2025.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12156982/
+     RELEVANCE: Uses HCAHPS data across US hospitals with regional
+     analysis — directly comparable scope and source to your study.
+
+[29] Patient satisfaction: a feature of quality metrics within
+     the inpatient healthcare system — a narrative review.
+     PMC. 2024.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC12296304/
+     RELEVANCE: Literature review on HCAHPS surveys and
+     interventions improving patient satisfaction scores.
+
+[30] Ramasubramanian H, Joshi S, Krishnan R. (see [5] above)
+     Also directly relevant here for the survey-quality link.
+
+----------------------------------------------------------------
+7. TEXT MINING FOR HEALTHCARE SERVICE QUALITY ASSESSMENT
+   (Use in literature review / 4.3 discussion)
+----------------------------------------------------------------
+
+[31] Developing a framework for online review-based healthcare
+     service quality assessment: text-mining study.
+     Journal of Medical Internet Research. 2025.
+     URL: https://www.jmir.org/2025/1/e66141
+     RELEVANCE: Uses text mining on online reviews to build a
+     service quality assessment framework — closely mirrors your
+     methodology.
+
+[32] Greaves F, et al.
+     Use of sentiment analysis for capturing patient experience
+     from free-text comments posted online.
+     Journal of Medical Internet Research. 2013;15(11):e239.
+     URL: https://jmir.org/2013/11/e239/
+     RELEVANCE: Foundational paper on using sentiment analysis
+     to predict whether patients would recommend a hospital —
+     directly related to your recommendation analysis.
+
+[33] Perceived quality of service in primary health care based
+     on Google Maps reviews — sentiment analysis.
+     Journal of Medical Internet Research. 2025.
+     URL: https://www.jmir.org/2025/1/e70410
+     RELEVANCE: Uses consumer reviews (Google Maps) to assess
+     health service quality — same approach as your Yelp analysis.
+
+----------------------------------------------------------------
+8. CLUSTERING IN HEALTHCARE
+   (Use in 3.3.1 and 4.2)
+----------------------------------------------------------------
+
+[34] Werner E, Clark JN, Hepburn A, et al.
+     Explainable hierarchical clustering for patient subtyping
+     and risk prediction.
+     Experimental Biology and Medicine. 2023;248(24):2547-2559.
+     PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC10854470/
+     RELEVANCE: Uses hierarchical clustering on hospital patient
+     data — justifies use of hierarchical methods in healthcare.
+
+[35] Optimizing patient stratification in healthcare: a
+     comparative analysis of clustering algorithms for EHR data.
+     International Journal of Computational Intelligence Systems.
+     Springer Nature. 2024.
+     URL: https://link.springer.com/article/10.1007/s44196-024-00568-8
+     RELEVANCE: Comparative study of K-Means and hierarchical
+     clustering in healthcare — directly supports your methodology.
+
+[36] CMS HCAHPS Star Ratings — clustering methodology.
+     hcahpsonline.org
+     URL: https://hcahpsonline.org/en/hcahps-star-ratings
+     RELEVANCE: CMS itself uses K-means clustering to assign
+     hospital star categories — supports use of K-means in
+     your study.
+
+----------------------------------------------------------------
+9. PASSION INDEX
+   (Must cite for your Passion Index methodology)
+----------------------------------------------------------------
+
+[37] Carse N, et al.
+     Patient experience in the context of a new hospital: a
+     mixed-methods study using importance-performance analysis.
+     BMC Health Services Research. 2021. PMC8602464.
+     URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8602464/
+     RELEVANCE: MUST CITE. This paper provides the mean-based
+     crosshair methodology for quadrant division that you used
+     in your Passion Index chart.
+
+================================================================
+PRIORITY CITATIONS (most important for your thesis)
+================================================================
+
+HIGHEST PRIORITY — use in multiple sections:
+  [1]  Bardach et al. 2013 — Yelp vs HCAHPS
+  [2]  Ranard et al. 2016 — What can Yelp teach us
+  [14] Aggarwal et al. 2025 — VADER in healthcare
+  [15] Coelho & Barbosa 2026 — VADER on patient complaints
+  [18] Mohammad & Turney 2013 — NRC Emotion Lexicon (MUST CITE)
+  [37] Carse et al. 2021 — Passion Index methodology (MUST CITE)
+
+HIGH PRIORITY — use in specific sections:
+  [4]  Placona & Rathert 2022 — systematic review of OPRs
+  [5]  Ramasubramanian et al. 2022 — crowd vs expert ratings
+  [8]  Zunic et al. 2020 — sentiment analysis in health review
+  [17] Bansal & Kumar 2022 — attribute sentiment from hospital reviews
+  [21] Campanella et al. 2021 — CMS star rating prediction
+  [27] Nguyen et al. 2020 — HCAHPS Pearson correlation
+  [28] Pereira et al. 2025 — HCAHPS regional analysis
+
+================================================================
+END OF CITATION LIST
+================================================================
