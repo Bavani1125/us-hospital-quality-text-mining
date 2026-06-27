@@ -1,0 +1,9 @@
+HG-C1	(AZ, FL, NJ, IL)
+HG-C2	(ID, TN)
+HG-C3	(IN, PA, MO, LA)
+
+
+
+S-C1	(ID, IL, LA, PA, TN)
+S-C2	(AZ, IN, NJ)
+S-C3	(FL, MO)
